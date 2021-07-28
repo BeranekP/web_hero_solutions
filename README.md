@@ -1,6 +1,6 @@
 # Solutions for https://www.web-hero.cz/ game
 
-Solutions for "search in the page" questions.
+Solutions for WebHero "search in the page" questions.
 
 ## Level 3
 
