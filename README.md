@@ -1,4 +1,4 @@
-# Solutions for https://www.web-hero.cz/ game
+# Solutions for [WebHero](https://www.web-hero.cz/ "Hra pro webové nadšence") game
 
 Solutions for WebHero "search in the page" questions.
 
