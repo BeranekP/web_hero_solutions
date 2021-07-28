@@ -4,7 +4,7 @@ Solutions for "search in the page" questions.
 
 ## Level 3
 
-The answer is shown by click on the heart in the footer, or can be seen in the source.
+The answer is shown by clicking on the heart in the footer, or can be seen in the source.
 
 ![Level 3 solution](img/level3.png)
 
